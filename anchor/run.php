@@ -1,5 +1,5 @@
 <?php
-
+// Say what what..
 /*
  * Set your applications current timezone
  */
